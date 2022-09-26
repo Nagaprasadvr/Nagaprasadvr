@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nagaprasad V R</h1>
-<h3 align="center">A passionate Solana and web3 developer. I started my web3 journey with Solana .In the path of understanding the core Architecture and Ecosystem of Solana to build reliable and secure Applications. Apart from web and Blockchain I'm interested in Cybersecurity , Blackholes and Quantum Physics. I also contribute to the STEM community through Blogs.</h3>
+<h3 align="center">A passionate Solana and web3 developer. I started my web3 journey with Solana .In the path of understanding the core Architecture and Ecosystem of Solana to build reliable and secure Applications. Apart from web and Blockchain I'm interested in Cybersecurity , Blackholes and Quantum Physics. I also contribute to the STEM community through Blogs and content creation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaprasadvr&label=Profile%20views&color=0e75b6&style=flat" alt="nagaprasadvr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagaprasadvr" alt="nagaprasadvr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@nagaprasad_246" target="blank"><img src="https://img.shields.io/twitter/follow/@nagaprasad_246?logo=twitter&style=for-the-badge" alt="@nagaprasad_246" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nagaprasad_246" target="blank"><img src="https://img.shields.io/twitter/follow/nagaprasad_246?logo=twitter&style=for-the-badge" alt="nagaprasad_246" /></a> </p>
 
 - 🔭 I’m currently working on [Infinity Wallet](https://github.com/hardXcoder/InfiWallet.git)
 
@@ -21,19 +21,15 @@
 
 - ⚡ My Interest **As a physics geek , I spend time on Blackholes , Quantum Physics.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nagaprasad_246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nagaprasad_246" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nagaprasad v r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaprasad v r" height="30" width="40" /></a>
+<a href="https://twitter.com/nagaprasad_246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagaprasad_246" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nagaprasad-v-r-6774201b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaprasad-v-r-6774201b2" height="30" width="40" /></a>
 <a href="https://hashnode.com/@higgsboson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@higgsboson" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nagaprasad v r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nagaprasad v r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nagaprasad v r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nagaprasad v r" height="30" width="40" /></a>
-<a href="https://discord.gg/Nagaprasad#5197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nagaprasad#5197" height="30" width="40" /></a>
-<a href="/https://p5hysics.wixsite.com/sciencified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://p5hysics.wixsite.com/sciencified" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nagaprasadvr246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nagaprasadvr246" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nagaprasadvr246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nagaprasadvr246" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anonymous246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anonymous246" height="30" width="40" /></a>
+<a href="https://discord.gg/5197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5197" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
