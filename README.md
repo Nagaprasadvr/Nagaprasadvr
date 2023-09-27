@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/nagaprasad_246" target="blank"><img src="https://img.shields.io/twitter/follow/nagaprasad_246?logo=twitter&style=for-the-badge" alt="nagaprasad_246" /></a> </p>
 
-- 🔭 I’m currently working on [Infinity Wallet](https://github.com/hardXcoder/InfiWallet.git)
-
 - 🌱 I’m currently learning **Solana , Rust , Substrate , File-coin , Arweave**
 
 - 📝 I regularly write articles on [https://p5hysics.wixsite.com/sciencified](https://p5hysics.wixsite.com/sciencified)
