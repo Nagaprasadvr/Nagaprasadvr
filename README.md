@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagaprasad V R</h1>
-<h3 align="center">Sometimes I like low level programming using rust and golang or else I read on  Cybersecurity , Blackholes and Quantum Physics. I also contribute to the STEM community through Blogs</h3>
+<h3 align="center">Rust and golang admirer, trying to understand networks ,decentralized systems . Sometimes I try to explore Cybersecurity , Blackholes and Quantum Physics. I also contribute to the STEM community through Blogs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaprasadvr&label=Profile%20views&color=0e75b6&style=flat" alt="nagaprasadvr" /> </p>
 
