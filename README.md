@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagaprasad V R</h1>
-<h3 align="center">A passionate Solana and Rust developer. I started my web3 journey with Solana .At present I'm working towards understanding the core Architecture and Ecosystem of Solana to build reliable and secure Applications. Apart from web and Blockchain I'm interested in Cybersecurity , Blackholes and Quantum Physics. I also contribute to the STEM community through Blogs and creating content.</h3>
+<h3 align="center">Sometimes I like low level programming using rust and golang or else I read on  Cybersecurity , Blackholes and Quantum Physics. I also contribute to the STEM community through Blogs and creating content.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaprasadvr&label=Profile%20views&color=0e75b6&style=flat" alt="nagaprasadvr" /> </p>
 
