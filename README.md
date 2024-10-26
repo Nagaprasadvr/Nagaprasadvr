@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagaprasad V R</h1>
-<h3 align="center">Solana maxi, Rust 🦀 and golang  admirer, trying to understand networks, decentralized systems. also into Cybersec, Blackholes and Quantum Physics </h3>
+<h3 align="center">Solana maxi, Rust 🦀 and golang  admirer, trying to understand networks, decentralized systems. btw I love  Blackholes and Quantum Physics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaprasadvr&label=Profile%20views&color=0e75b6&style=flat" alt="nagaprasadvr" /> </p>
 
