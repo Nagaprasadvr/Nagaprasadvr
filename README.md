@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Solana, Rust, decentralized systems**
 
-- 📝 I regularly write articles on [https://p5hysics.wixsite.com/sciencified](https://p5hysics.wixsite.com/sciencified)
+- 📝 I regularly write articles on [sciencified](https://p5hysics.wixsite.com/sciencified)
 
 - 💬 Ask me about **solana, Rust, Go, web3, Cybersec**
 
 - 📫 How to reach me **nagaprasadvr246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eZhX_VdWy1LZ4xFFLcNZX-OkDZ-vPGJZ/view?usp=drive_link](https://drive.google.com/file/d/1eZhX_VdWy1LZ4xFFLcNZX-OkDZ-vPGJZ/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1eZhX_VdWy1LZ4xFFLcNZX-OkDZ-vPGJZ/view?usp=drive_link)
 
 - ⚡ Fun fact **I love Quantum Physics and Blackholes**
 
