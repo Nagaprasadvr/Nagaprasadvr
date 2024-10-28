@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagaprasad V R</h1>
-<h3 align="center">Solana maxi, Rust 🦀 and golang  admirer, trying to understand networks, decentralized systems. btw I love  Blackholes and Quantum Physics </h3>
+<h3 align="center">Solana maxi, Rust 🦀 and golang  admirer, trying to understand networks, decentralized systems. Btw I love Blackholes and Quantum Physics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaprasadvr&label=Profile%20views&color=0e75b6&style=flat" alt="nagaprasadvr" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/nagaprasad_246" target="blank"><img src="https://img.shields.io/twitter/follow/nagaprasad_246?logo=twitter&style=for-the-badge" alt="nagaprasad_246" /></a> </p>
 
-- 🌱 I’m currently learning **Solana , Rust , Substrate , File-coin , Arweave**
+- 🌱 I’m currently learning **Solana, Rust, decentralized systems**
 
-- 📝 I regularly write articles on [https://p5hysics.wixsite.com/sciencified](https://p5hysics.wixsite.com/sciencified)
+- 📝 I regularly write articles on [sciencified](https://p5hysics.wixsite.com/sciencified)
 
-- 💬 Ask me about **Django , python ,Blockchain, backend, Cryptography , Cybersecurity**
+- 💬 Ask me about **solana, Rust, Go, web3, Cybersec**
 
 - 📫 How to reach me **nagaprasadvr246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kfw9I6v8td_xxbrzJkncJW4lbuthDDCr/view?usp=sharing](https://drive.google.com/file/d/1kfw9I6v8td_xxbrzJkncJW4lbuthDDCr/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1eZhX_VdWy1LZ4xFFLcNZX-OkDZ-vPGJZ/view?usp=drive_link)
 
-- ⚡ My Interest **As a physics geek , I spend time on Blackholes , Quantum Physics.**
+- ⚡ My Interest **Blackholes , Quantum Physics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
