@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Nagaprasad</h1>
 <h3 align="center">
   <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" alt="Solana Logo" width="80" height="80" /><br/>
-  Solana maxi • Rust 🦀 • Crypto • Quantum Computing & Networks Explorer
+  Solana • Rust 🦀 • Crypto • Quantum Computing & Networks Explorer
 </h3>
 
 <p align="center">
