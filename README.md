@@ -27,12 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/nagaprasad_246" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="mailto:nagaprasadvr246@gmail.com" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
+  <img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter" height="30" width="40" />
+  &nbsp;
+  <img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Email" height="30" width="40" />
 </p>
 
 ---
@@ -40,24 +37,17 @@
 <h3 align="left">Languages & Tools I Use:</h3>
 
 <p align="left">
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="Rust" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353795/go.svg" alt="Go" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+  <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="Rust" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/353795/go.svg" alt="Go" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 ---
