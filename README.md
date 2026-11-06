@@ -39,8 +39,8 @@ const FUN_FACT: &str = "Quantum physics, time dilation, entropy & Hawking radiat
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nagaprasadvr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=14F195&icon_color=9945FF&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaprasadvr&layout=compact&hide_border=true&bg_color=0d1117&title_color=14F195&text_color=c9d1d9&langs_count=6" alt="Top languages" />
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
 <p align="center">
